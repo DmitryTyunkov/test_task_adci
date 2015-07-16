@@ -1,18 +1,18 @@
 <html>
 	<head>
-		<title>Тестовое задание</title>
+		<title>РўРµСЃС‚РѕРІРѕРµ Р·Р°РґР°РЅРёРµ</title>
 	</head>
 	<body>
-		<h1>Список тестовых заданий</h1>
+		<h1>РЎРїРёСЃРѕРє С‚РµСЃС‚РѕРІС‹С… Р·Р°РґР°РЅРёР№</h1>
 		<ul>
-			<li><a href="testtask1">Тестовое задание 1</li>
-			<li><a href="testtask2">Тестовое задание 2</li>
-			<li><a href="testtask3">Тестовое задание 3</li>
-			<li><a href="testtask4">Тестовое задание 4</li>
-			<li><a href="testtask5">Тестовое задание 5</li>
-			<li><a href="testtask6">Тестовое задание 6</li>
-			<li><a href="testtask7">Тестовое задание 7</li>
-			<li><a href="testtask8">Тестовое задание 8</li>
+			<li><a href="testtask1">РўРµСЃС‚РѕРІРѕРµ Р·Р°РґР°РЅРёРµ 1</li>
+			<li><a href="testtask2">РўРµСЃС‚РѕРІРѕРµ Р·Р°РґР°РЅРёРµ 2</li>
+			<li><a href="testtask3">РўРµСЃС‚РѕРІРѕРµ Р·Р°РґР°РЅРёРµ 3</li>
+			<li><a href="testtask4">РўРµСЃС‚РѕРІРѕРµ Р·Р°РґР°РЅРёРµ 4</li>
+			<li><a href="testtask5">РўРµСЃС‚РѕРІРѕРµ Р·Р°РґР°РЅРёРµ 5</li>
+			<li><a href="testtask6">РўРµСЃС‚РѕРІРѕРµ Р·Р°РґР°РЅРёРµ 6</li>
+			<li><a href="testtask7">РўРµСЃС‚РѕРІРѕРµ Р·Р°РґР°РЅРёРµ 7</li>
+			<li><a href="testtask8">РўРµСЃС‚РѕРІРѕРµ Р·Р°РґР°РЅРёРµ 8</li>
 		</ul>
 	</body>
 </html>

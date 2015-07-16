@@ -1,7 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
 	<head>
-		<title>Тестовое задание 2</title>
+		<title>РўРµСЃС‚РѕРІРѕРµ Р·Р°РґР°РЅРёРµ 2</title>
 	</head>
 	<body>
 		<h2><ul>
@@ -19,6 +19,6 @@
 			<li ondblclick=parentNode.removeChild(this);>Item 12</li>
 		</ul></h2>
 		<br>
-		<a href="../">На главную</a>
+		<a href="../">РќР° РіР»Р°РІРЅСѓСЋ</a>
 	</body>
 </html>
