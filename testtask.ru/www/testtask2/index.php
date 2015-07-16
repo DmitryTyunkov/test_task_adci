@@ -4,7 +4,7 @@
 		<title>Тестовое задание 2</title>
 	</head>
 	<body>
-		<h2><ul>
+		<h3><ul>
 			<li ondblclick=parentNode.removeChild(this);>Item 1</li>
 			<li ondblclick=parentNode.removeChild(this);>Item 2</li>
 			<li ondblclick=parentNode.removeChild(this);>Item 3</li>
@@ -17,7 +17,7 @@
 			<li ondblclick=parentNode.removeChild(this);>Item 10</li>
 			<li ondblclick=parentNode.removeChild(this);>Item 11</li>
 			<li ondblclick=parentNode.removeChild(this);>Item 12</li>
-		</ul></h2>
+		</ul></h3>
 		<br>
 		<a href="../">На главную</a>
 	</body>
