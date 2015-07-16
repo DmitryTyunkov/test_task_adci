@@ -82,4 +82,9 @@
 		mulDo();
 	if($_POST['tables']=='foreach')
 		mulForeach();
+	echo "<form name=\"selectionTables\" action=\"../testtask7\" method=\"post\">
+		<script>
+			document.selectionTables.submit();
+		</script>
+	</form>";
 ?>

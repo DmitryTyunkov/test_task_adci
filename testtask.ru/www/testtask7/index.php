@@ -16,7 +16,7 @@
 				<td><input type="submit" name="select" id="select" value="Выбор"></td></form>
 			</tr>
 		</table></div>
-		<?require_once("script/select.php");?>
+		<?require_once("select.php");?>
 		<br>
 		<a href="../">На главную</a>
 	</body>

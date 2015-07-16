@@ -5,7 +5,7 @@
 	</head>
 	<body>
 		<h1>Список тестовых заданий</h1>
-		<ul>
+		<h3><ul>
 			<li><a href="testtask1">Тестовое задание 1</li>
 			<li><a href="testtask2">Тестовое задание 2</li>
 			<li><a href="testtask3">Тестовое задание 3</li>
@@ -14,6 +14,6 @@
 			<li><a href="testtask6">Тестовое задание 6</li>
 			<li><a href="testtask7">Тестовое задание 7</li>
 			<li><a href="testtask8">Тестовое задание 8</li>
-		</ul>
+		</ul></h3>
 	</body>
 </html>
