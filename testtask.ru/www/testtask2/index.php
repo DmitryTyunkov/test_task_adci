@@ -18,7 +18,6 @@
 			<li ondblclick=parentNode.removeChild(this);>Item 11</li>
 			<li ondblclick=parentNode.removeChild(this);>Item 12</li>
 		</ul></h3>
-		<br>
 		<a href="../">На главную</a>
 	</body>
 </html>

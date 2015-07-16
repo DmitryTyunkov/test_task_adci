@@ -21,7 +21,8 @@
 				}
 			}
 		}
-		echo "<tr><td>".$i."</td><td>".$pass[$i]."</td></tr>";
+		$n=$i+1;
+		echo "<tr><td>".$n."</td><td>".$pass[$i]."</td></tr>";
 		if($i==$_POST['nums'])
 			echo "</table>";
 	}
