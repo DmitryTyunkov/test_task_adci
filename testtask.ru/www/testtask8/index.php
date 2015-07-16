@@ -11,8 +11,7 @@
 				<td><input type="submit" name="select" id="select" value="Сгенерировать"></td></form>
 			</tr>
 		</table></div>
-		<?require_once("generate.php");?>
-		<br>
-		<a href="../">На главную</a>
+			<?require_once("generate.php");?>
+		<table><tr><td><a href="../">На главную</a></td></tr></table>
 	</body>
 </html>
