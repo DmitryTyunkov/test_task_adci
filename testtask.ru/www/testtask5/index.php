@@ -40,7 +40,7 @@
 	<body>
 	
 		<div class="top">
-			<h1>Animaux<h1>
+			<h1>Animaux</h1>
 		</div>
 		<div class="main">
 			<img src="DoctorWho_s5_2.jpg" alt="Foto" width="100%">
